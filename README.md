@@ -1,6 +1,7 @@
 # JIFUNZ-Data-Analysis-Project
 # Jifunz Database Analysis Project
 
+
 This repository contains SQL scripts and an analytical report exploring the `jifunz` sample database. The project aims to demonstrate database setup, querying skills, and the ability to extract meaningful business insights from relational data.
 
 Project Overview
